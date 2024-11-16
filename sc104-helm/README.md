@@ -69,3 +69,12 @@ another-annotations: here
   </pre>
 
 </details>
+
+## mock q2
+
+> Scenario: You are working with a Helm chart that deploys a single container Deployment. Your task is to modify the templates/deployment.yaml file to dynamically add extra containers based on the `.Values.extraContainers` field. Use Helm functions `range`, `toYaml`, and `nindent` to format and add these extra containers within the spec.template.spec.containers section.
+
+<details>
+  <summary>a solution</summary>
+
+</details>
